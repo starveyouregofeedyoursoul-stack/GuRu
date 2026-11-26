@@ -44,7 +44,8 @@ object Guru {
     val Cosmic = Color(0xFFB47CFF)
     val Ember = Color(0xFFFF8A5C)
     val Mint = Color(0xFF5CE1C6)
-    val TextDim = Color(0xB3FFFFFF)
+    val Ink = Color(0xFFF7F8FF)          // main text: soft bright white
+    val TextDim = Color(0xFFD3D7F0)      // secondary text: off-white, still clearly readable
     val accent = Brush.linearGradient(listOf(Aurora, Cosmic))
     val background = Brush.verticalGradient(listOf(Deep, Night, Night))
 }
@@ -54,8 +55,8 @@ private val TvScheme = darkColorScheme(
     secondary = Guru.Ember, tertiary = Guru.Mint,
     primaryContainer = Color(0xFF26265A), onPrimaryContainer = Color.White,
     secondaryContainer = Color(0xFF3A2430),
-    background = Guru.Night, surface = Color(0xFF14142A), onSurface = Color.White,
-    surfaceVariant = Color(0xFF1E1E3A), onSurfaceVariant = Guru.TextDim,
+    background = Guru.Night, onBackground = Guru.Ink, surface = Color(0xFF14142A), onSurface = Guru.Ink,
+    surfaceVariant = Color(0xFF1E1E3A), onSurfaceVariant = Guru.TextDim, onSecondaryContainer = Guru.Ink, onTertiary = Color.Black,
     surfaceContainerHigh = Color(0xFF1A1A36), outline = Color(0x66FFFFFF),
 )
 
@@ -72,7 +73,10 @@ private val TvType = Typography().run {
 fun GuruTheme(content: @Composable () -> Unit) =
     MaterialTheme(colorScheme = TvScheme, typography = TvType, shapes = Shapes(
         small = RoundedCornerShape(12.dp), medium = RoundedCornerShape(20.dp), large = RoundedCornerShape(28.dp),
-    ), content = content)
+    )) {
+        // Screens sit on a transparent background, where Material would otherwise fall back to black text.
+        CompositionLocalProvider(LocalContentColor provides Guru.Ink, content = content)
+    }
 
 enum class Tab(val label: String, val icon: ImageVector) {
     Plan("Plan", Icons.Default.CalendarMonth),
@@ -94,6 +98,7 @@ fun GuruRoot(vm: GuruViewModel = viewModel()) {
         StarField(Modifier.matchParentSize())
         Scaffold(
             containerColor = Color.Transparent,
+            contentColor = Guru.Ink,
             snackbarHost = { SnackbarHost(snackbar) },
             topBar = {
                 Row(Modifier.statusBarsPadding().padding(horizontal = 20.dp, vertical = 10.dp),
