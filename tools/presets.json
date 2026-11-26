@@ -1,0 +1,1756 @@
+{
+ "W": [
+  {
+   "name": "12-3-30 Treadmill",
+   "cat": "Trend",
+   "min": 30,
+   "lvl": "Moderate",
+   "ex": "Treadmill incline 12%\nSpeed 3.0 mph\n30 minutes steady walk",
+   "met": 8.0
+  },
+  {
+   "name": "Zone 2 Cardio",
+   "cat": "Cardio",
+   "min": 45,
+   "lvl": "Easy",
+   "ex": "Bike, row, or brisk walk\nKeep heart rate ~60-70% max\nYou should be able to talk",
+   "met": 5.0
+  },
+  {
+   "name": "Hyrox-Style Circuit",
+   "cat": "Trend",
+   "min": 50,
+   "lvl": "Hard",
+   "ex": "1 km run\n50 m sled push (or heavy plank push)\n1 km run\n80 m burpee broad jumps\n1 km run\n100 m farmer carry\n1 km run\n100 wall balls",
+   "met": 9.0
+  },
+  {
+   "name": "Full Body 5x5",
+   "cat": "Strength",
+   "min": 45,
+   "lvl": "Hard",
+   "ex": "Squat 5x5\nBench press 5x5\nBarbell row 5x5\nRest 2-3 min between sets",
+   "met": 6.0
+  },
+  {
+   "name": "Upper Body Push/Pull",
+   "cat": "Strength",
+   "min": 40,
+   "lvl": "Moderate",
+   "ex": "Push-ups 3x12\nDumbbell row 3x10/side\nOverhead press 3x10\nBand pull-aparts 3x15\nBicep curl 3x12\nTricep dips 3x10",
+   "met": 4.5
+  },
+  {
+   "name": "Lower Body & Glutes",
+   "cat": "Strength",
+   "min": 40,
+   "lvl": "Moderate",
+   "ex": "Goblet squat 3x12\nRomanian deadlift 3x10\nHip thrust 3x12\nWalking lunges 3x10/leg\nCalf raises 3x15",
+   "met": 5.0
+  },
+  {
+   "name": "20-Min HIIT Tabata",
+   "cat": "HIIT",
+   "min": 20,
+   "lvl": "Hard",
+   "ex": "20s on / 10s off x 8 per block\nBlock 1: Jump squats\nBlock 2: Mountain climbers\nBlock 3: Burpees\nBlock 4: High knees\n1 min rest between blocks",
+   "met": 8.0
+  },
+  {
+   "name": "EMOM 24",
+   "cat": "HIIT",
+   "min": 24,
+   "lvl": "Hard",
+   "ex": "Every minute on the minute, rotate:\nMin 1: 12 kettlebell swings\nMin 2: 10 push-ups\nMin 3: 15 air squats\nMin 4: 30s plank",
+   "met": 8.0
+  },
+  {
+   "name": "Couch to 5K \u2013 Week 1",
+   "cat": "Cardio",
+   "min": 30,
+   "lvl": "Easy",
+   "ex": "5 min brisk walk warm-up\nAlternate 60s jog / 90s walk x 8\n5 min cool-down walk",
+   "met": 6.0
+  },
+  {
+   "name": "Wall Pilates",
+   "cat": "Yoga/Pilates",
+   "min": 25,
+   "lvl": "Easy",
+   "ex": "Wall bridge 3x12\nWall sit 3x30s\nLeg circles 2x10/side\nWall push-ups 3x12\nDead bug 3x10",
+   "met": 3.0
+  },
+  {
+   "name": "Morning Mobility Flow",
+   "cat": "Mobility",
+   "min": 15,
+   "lvl": "Easy",
+   "ex": "Cat-cow x10\nWorld's greatest stretch x5/side\n90/90 hip switches x10\nThoracic rotations x10/side\nDeep squat hold 60s",
+   "met": 2.5
+  },
+  {
+   "name": "Hot Girl Walk / Rucking",
+   "cat": "Trend",
+   "min": 40,
+   "lvl": "Easy",
+   "ex": "Outdoor walk 3-4 miles\nOptional: weighted backpack 10-20 lb\nPodcast or playlist",
+   "met": 5.0
+  },
+  {
+   "name": "Core Crusher",
+   "cat": "Strength",
+   "min": 15,
+   "lvl": "Moderate",
+   "ex": "Plank 3x45s\nBicycle crunches 3x20\nRussian twists 3x20\nLeg raises 3x12\nSide plank 2x30s/side",
+   "met": 3.8
+  },
+  {
+   "name": "Couch to 5K \u2013 Week 3",
+   "cat": "Cardio",
+   "min": 30,
+   "lvl": "Moderate",
+   "ex": "5 min brisk walk warm-up\n90s jog / 90s walk x 2\n3 min jog / 3 min walk x 2\n5 min cool-down walk",
+   "met": 7.0
+  },
+  {
+   "name": "Kettlebell Full Body",
+   "cat": "Strength",
+   "min": 30,
+   "lvl": "Hard",
+   "ex": "Kettlebell swings 4x15\nGoblet squat 4x10\nSingle-arm row 3x10/side\nPush-ups 3x12\nFarmer carry 3x40 m",
+   "met": 8.0
+  },
+  {
+   "name": "Beginner Dumbbell Full Body",
+   "cat": "Strength",
+   "min": 30,
+   "lvl": "Easy",
+   "ex": "Goblet squat 3x10\nDumbbell row 3x10/side\nGlute bridge 3x12\nPush-ups (knees ok) 3x8\nPlank 3x30s",
+   "met": 3.5
+  },
+  {
+   "name": "Push Day",
+   "cat": "Strength",
+   "min": 45,
+   "lvl": "Hard",
+   "ex": "Bench press 4x8\nOverhead press 3x10\nIncline dumbbell press 3x10\nLateral raises 3x15\nTricep dips 3x10",
+   "met": 6.0
+  },
+  {
+   "name": "Pull Day",
+   "cat": "Strength",
+   "min": 45,
+   "lvl": "Hard",
+   "ex": "Romanian deadlift 4x8\nLat pulldown or pull-ups 4x8\nSeated cable row 3x10\nFace pulls 3x15\nHammer curls 3x12",
+   "met": 6.0
+  },
+  {
+   "name": "StairMaster 20",
+   "cat": "Trend",
+   "min": 20,
+   "lvl": "Hard",
+   "ex": "Stair climber 2 min easy\nStair climber 1 min fast / 1 min easy x 8\nStair climber 2 min cool-down",
+   "met": 9.0
+  },
+  {
+   "name": "Japanese Interval Walking",
+   "cat": "Trend",
+   "min": 30,
+   "lvl": "Moderate",
+   "ex": "Fast walk 3 min / slow walk 3 min x 5",
+   "met": 5.0
+  },
+  {
+   "name": "Boxing HIIT",
+   "cat": "HIIT",
+   "min": 30,
+   "lvl": "Hard",
+   "ex": "Jab-cross 3x60s\nHooks 3x60s\nSquat + punch combo 3x60s\nShadowbox freestyle 3x60s\n30s rest between rounds",
+   "met": 7.8
+  },
+  {
+   "name": "Rowing Intervals",
+   "cat": "Cardio",
+   "min": 25,
+   "lvl": "Hard",
+   "ex": "Rowing machine 5 min easy\nRowing machine 500 m hard / 2 min easy x 4\nRowing machine 3 min cool-down",
+   "met": 8.5
+  },
+  {
+   "name": "Spin 30",
+   "cat": "Cardio",
+   "min": 30,
+   "lvl": "Moderate",
+   "ex": "Spin bike 5 min warm-up\nSeated climb 4 min / sprint 1 min x 4\nSpin bike 5 min cool-down",
+   "met": 7.0
+  },
+  {
+   "name": "Swim Laps",
+   "cat": "Cardio",
+   "min": 30,
+   "lvl": "Moderate",
+   "ex": "Easy swim 200 m\nFreestyle 8 x 50 m, 20s rest\nKickboard 4 x 25 m\nEasy swim 100 m",
+   "met": 6.0
+  },
+  {
+   "name": "Morning Yoga Flow",
+   "cat": "Yoga/Pilates",
+   "min": 20,
+   "lvl": "Easy",
+   "ex": "Sun salutation A x5\nDownward dog 60s\nWarrior II 30s/side\nTriangle pose 30s/side\nChild's pose 60s",
+   "met": 2.8
+  },
+  {
+   "name": "Mat Pilates Core",
+   "cat": "Yoga/Pilates",
+   "min": 25,
+   "lvl": "Moderate",
+   "ex": "Pilates hundred x100 pulses\nRoll-up x8\nSingle-leg stretch x10/side\nSwimming (Pilates) 3x30s\nSide plank 2x30s/side",
+   "met": 3.5
+  },
+  {
+   "name": "10-Min Desk Break",
+   "cat": "Mobility",
+   "min": 10,
+   "lvl": "Easy",
+   "ex": "Neck rolls 30s\nShoulder rolls 30s\nThoracic rotation x10/side\nHip flexor stretch 30s/side\nCalf raises x15",
+   "met": 2.3
+  },
+  {
+   "name": "Pickleball / Tennis Session",
+   "cat": "Sport",
+   "min": 60,
+   "lvl": "Moderate",
+   "ex": "Dynamic warm-up 5 min\nDrills 10 min\nGames 40 min\nStretch 5 min",
+   "met": 4.5
+  },
+  {
+   "name": "Bedtime Wind-Down Stretch",
+   "cat": "Mobility",
+   "min": 12,
+   "lvl": "Easy",
+   "met": 2.0,
+   "ex": "Neck & shoulder rolls 60s\nCat-cow 60s\nChild's pose 90s\nSupine twist 60s/side\nButterfly stretch 60s\nLegs up the wall 3 min\n4-7-8 breathing x4"
+  }
+ ],
+ "M": [
+  {
+   "name": "Sheet-Pan Lemon Herb Chicken & Veggies",
+   "kind": "Dinner",
+   "prep": "Sheet Pan",
+   "min": 35,
+   "tags": "high-protein,gluten-free",
+   "ing": "1.5 lb chicken thighs\n2 cups broccoli florets\n1 bell pepper, sliced\n1 red onion, wedged\n2 tbsp olive oil\n1 lemon\n1 tsp garlic powder\n1 tsp dried oregano\nSalt & pepper",
+   "steps": "Heat oven to 425\u00b0F / 220\u00b0C\nToss everything with oil, lemon juice and spices\nSpread on one pan, skin/side up\nRoast 25-30 min until chicken hits 165\u00b0F",
+   "serv": 4,
+   "kcal": 300,
+   "p": 35,
+   "c": 8,
+   "f": 15
+  },
+  {
+   "name": "Air-Fryer Salmon Rice Bowls",
+   "kind": "Dinner",
+   "prep": "Air Fryer",
+   "min": 20,
+   "tags": "high-protein,omega-3",
+   "ing": "2 salmon fillets\n2 cups cooked rice\n1 cucumber\n1 avocado\n2 tbsp soy sauce or tamari\n1 tbsp honey\nSesame seeds\nSriracha mayo (optional)",
+   "steps": "Brush salmon with soy + honey\nAir fry 400\u00b0F for 8-10 min\nFlake over rice\nTop with cucumber, avocado, sesame & sauce",
+   "serv": 2,
+   "kcal": 760,
+   "p": 40,
+   "c": 65,
+   "f": 35
+  },
+  {
+   "name": "One-Pot Turkey Chili",
+   "kind": "Dinner",
+   "prep": "One Pot",
+   "min": 40,
+   "tags": "high-protein,batch-friendly",
+   "ing": "1 lb lean ground turkey\n1 onion, diced\n2 cans beans, drained\n1 can crushed tomatoes\n1 cup corn\n2 tbsp chili powder\n1 tsp cumin\n1 tsp smoked paprika",
+   "steps": "Brown turkey with onion\nAdd spices, stir 1 min\nAdd tomatoes, beans, corn\nSimmer 25 min; portion leftovers",
+   "serv": 4,
+   "kcal": 430,
+   "p": 35,
+   "c": 50,
+   "f": 10
+  },
+  {
+   "name": "Slow-Cooker Chicken Burrito Bowls",
+   "kind": "Dinner",
+   "prep": "Slow Cooker",
+   "min": 15,
+   "tags": "high-protein,meal-prep",
+   "ing": "1.5 lb chicken breast\n1 jar salsa\n1 can black beans\n1 cup corn\n1 tbsp taco seasoning\nRice, lettuce, Greek yogurt, lime to serve",
+   "steps": "Add chicken, salsa, beans, corn, seasoning to slow cooker\nCook low 6 h or high 3 h\nShred chicken\nServe over rice with toppings",
+   "serv": 4,
+   "kcal": 590,
+   "p": 54,
+   "c": 75,
+   "f": 7
+  },
+  {
+   "name": "Greek Chickpea Salad (No-Cook)",
+   "kind": "Dinner",
+   "prep": "No-Cook",
+   "min": 10,
+   "tags": "vegetarian,high-fiber",
+   "ing": "1 can chickpeas\n1 cucumber\n1 cup cherry tomatoes\n1/4 red onion\n1/2 cup feta\nKalamata olives\n2 tbsp olive oil\n1 tbsp red wine vinegar\nOregano",
+   "steps": "Chop vegetables\nToss everything in a bowl\nRest 5 min so flavors mix",
+   "serv": 2,
+   "kcal": 465,
+   "p": 16,
+   "c": 38,
+   "f": 27
+  },
+  {
+   "name": "Batch-Prep Beef & Broccoli",
+   "kind": "Dinner",
+   "prep": "Batch Prep",
+   "min": 30,
+   "tags": "high-protein,meal-prep",
+   "ing": "1.5 lb flank steak, thin sliced\n4 cups broccoli\n1/3 cup low-sodium soy sauce\n1 tbsp brown sugar\n1 tbsp cornstarch\n2 cloves garlic\n1 tsp ginger\n4 cups cooked rice",
+   "steps": "Whisk soy, sugar, cornstarch, garlic, ginger\nSear beef in batches\nSteam broccoli 3 min in same pan\nAdd sauce, toss, thicken\nDivide into 4 containers with rice",
+   "serv": 4,
+   "kcal": 530,
+   "p": 44,
+   "c": 57,
+   "f": 13
+  },
+  {
+   "name": "Veggie Egg Fried Rice",
+   "kind": "Dinner",
+   "prep": "One Pot",
+   "min": 15,
+   "tags": "vegetarian,budget",
+   "ing": "3 cups cold cooked rice\n3 eggs\n1.5 cups frozen peas & carrots\n3 green onions\n2 tbsp soy sauce\n1 tsp sesame oil",
+   "steps": "Scramble eggs, set aside\nStir-fry veg 3 min\nAdd rice, press & crisp 4 min\nAdd soy, sesame oil, eggs, onions",
+   "serv": 3,
+   "kcal": 340,
+   "p": 13,
+   "c": 53,
+   "f": 7
+  },
+  {
+   "name": "Grilled Shrimp Tacos",
+   "kind": "Dinner",
+   "prep": "Grill",
+   "min": 20,
+   "tags": "high-protein,low-cal",
+   "ing": "1 lb shrimp\n8 corn tortillas\n2 cups slaw mix\n1 lime\n1 tsp chili powder\n1/2 cup Greek yogurt\n1 tbsp hot sauce",
+   "steps": "Season shrimp with chili + lime\nGrill 2 min per side\nMix yogurt + hot sauce\nBuild tacos with slaw and sauce",
+   "serv": 4,
+   "kcal": 235,
+   "p": 25,
+   "c": 26,
+   "f": 3
+  },
+  {
+   "name": "Green Protein Smoothie",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "high-protein,post-workout",
+   "ing": "1 cup spinach\n1 frozen banana\n1 scoop vanilla protein\n1 tbsp almond butter\n1 cup almond milk",
+   "steps": "Add liquid first\nBlend 45-60 s until smooth",
+   "serv": 1,
+   "kcal": 365,
+   "p": 29,
+   "c": 34,
+   "f": 13
+  },
+  {
+   "name": "Berry Recovery Smoothie",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "antioxidant,post-workout",
+   "ing": "1 cup mixed frozen berries\n1/2 cup Greek yogurt\n1 tbsp chia seeds\n1 cup water or milk\nHoney to taste",
+   "steps": "Blend everything until smooth",
+   "serv": 1,
+   "kcal": 220,
+   "p": 13,
+   "c": 32,
+   "f": 4
+  },
+  {
+   "name": "PB Chocolate Pre-Workout Shake",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "energy,pre-workout",
+   "ing": "1 banana\n1 tbsp cocoa powder\n1 tbsp peanut butter\n1/2 cup oats\n1 cup milk\n1/2 cup cold brew (optional)",
+   "steps": "Blend 60 s",
+   "serv": 1,
+   "kcal": 485,
+   "p": 18,
+   "c": 72,
+   "f": 16
+  },
+  {
+   "name": "Tropical Low-Sugar Smoothie",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "diet,low-sugar",
+   "ing": "1/2 cup frozen mango\n1/2 cup frozen cauliflower rice\n1 scoop collagen or protein\n1 cup unsweetened coconut milk\nSqueeze of lime",
+   "steps": "Blend until creamy",
+   "serv": 1,
+   "kcal": 200,
+   "p": 21,
+   "c": 16,
+   "f": 5
+  },
+  {
+   "name": "Turkey Taco Lettuce Wraps",
+   "kind": "Dinner",
+   "prep": "One Pot",
+   "min": 20,
+   "tags": "low-carb,high-protein",
+   "ing": "1 lb lean ground turkey\n1 tbsp taco seasoning\n1 head butter lettuce\n1/2 cup salsa\n1/2 cup shredded cheddar\n1 avocado, diced",
+   "steps": "Brown turkey 6-8 min\nStir in taco seasoning + splash of water\nSpoon into lettuce cups\nTop with salsa, cheese and avocado",
+   "serv": 3,
+   "kcal": 410,
+   "p": 34,
+   "c": 9,
+   "f": 26
+  },
+  {
+   "name": "Chicken Pesto Zoodles",
+   "kind": "Dinner",
+   "prep": "One Pot",
+   "min": 20,
+   "tags": "low-carb,high-protein",
+   "ing": "12 oz chicken breast, cubed\n3 medium zucchini, spiralized\n1/4 cup basil pesto\n1 cup cherry tomatoes\n2 tbsp grated parmesan",
+   "steps": "Sear chicken 6-7 min until cooked\nAdd zoodles and tomatoes, toss 2 min\nStir in pesto off the heat\nTop with parmesan",
+   "serv": 2,
+   "kcal": 450,
+   "p": 46,
+   "c": 14,
+   "f": 22
+  },
+  {
+   "name": "Sheet-Pan Sausage & Sweet Potatoes",
+   "kind": "Dinner",
+   "prep": "Sheet Pan",
+   "min": 35,
+   "tags": "gluten-free,family",
+   "ing": "4 chicken sausage links, sliced\n2 sweet potatoes, cubed\n3 cups Brussels sprouts, halved\n1.5 tbsp olive oil\n1 tsp smoked paprika\nSalt & pepper",
+   "steps": "Heat oven to 425\u00b0F / 220\u00b0C\nToss potatoes and sprouts with oil and spices\nRoast 15 min, add sausage\nRoast 15 more min",
+   "serv": 4,
+   "kcal": 320,
+   "p": 18,
+   "c": 27,
+   "f": 16
+  },
+  {
+   "name": "Slow-Cooker Lentil Veggie Soup",
+   "kind": "Dinner",
+   "prep": "Slow Cooker",
+   "min": 15,
+   "tags": "vegan,high-fiber,batch-friendly",
+   "ing": "1.5 cups dry lentils, rinsed\n2 carrots, diced\n2 celery stalks, diced\n1 onion, diced\n1 can (14 oz) diced tomatoes\n6 cups low-sodium broth\n3 cups spinach\n1 tbsp olive oil\n2 tsp cumin",
+   "steps": "Add everything except spinach to slow cooker\nCook low 7 h or high 4 h\nStir in spinach until wilted\nPortion and freeze extras",
+   "serv": 6,
+   "kcal": 235,
+   "p": 13,
+   "c": 38,
+   "f": 3
+  },
+  {
+   "name": "Lemon Garlic Baked Cod & Green Beans",
+   "kind": "Dinner",
+   "prep": "Sheet Pan",
+   "min": 20,
+   "tags": "low-cal,high-protein",
+   "ing": "2 cod fillets (6 oz each)\n3 cups green beans\n1 tbsp olive oil\n1 lemon\n2 cloves garlic, minced\nSalt, pepper, parsley",
+   "steps": "Heat oven to 400\u00b0F / 200\u00b0C\nToss beans with half the oil, spread on pan\nAdd cod, top with garlic, lemon, remaining oil\nBake 12-15 min until fish flakes",
+   "serv": 2,
+   "kcal": 250,
+   "p": 34,
+   "c": 11,
+   "f": 8
+  },
+  {
+   "name": "Crispy Air-Fryer Chicken Tenders",
+   "kind": "Dinner",
+   "prep": "Air Fryer",
+   "min": 20,
+   "tags": "high-protein,kid-friendly",
+   "ing": "12 oz chicken breast, cut in strips\n1/2 cup panko\n2 tbsp grated parmesan\n1 egg, beaten\n2 cups broccoli florets\nPaprika, garlic powder",
+   "steps": "Dip chicken in egg, then panko-parmesan mix\nAir fry 400\u00b0F for 10-12 min, flipping once\nAir fry or steam broccoli 6 min\nServe with mustard or hot sauce",
+   "serv": 2,
+   "kcal": 345,
+   "p": 48,
+   "c": 17,
+   "f": 9
+  },
+  {
+   "name": "Greek Yogurt Chicken Salad Wraps",
+   "kind": "Dinner",
+   "prep": "No-Cook",
+   "min": 10,
+   "tags": "high-protein,meal-prep",
+   "ing": "2 cups shredded rotisserie chicken (skinless)\n1/2 cup plain Greek yogurt\n1 celery stalk, diced\n1/2 cup grapes, halved\n3 whole-wheat tortillas\nHandful of spinach",
+   "steps": "Mix chicken, yogurt, celery and grapes\nSeason with salt, pepper, lemon\nFill tortillas with spinach and salad\nRoll and slice",
+   "serv": 3,
+   "kcal": 330,
+   "p": 37,
+   "c": 28,
+   "f": 7
+  },
+  {
+   "name": "Black Bean Quinoa Bowls",
+   "kind": "Dinner",
+   "prep": "Batch Prep",
+   "min": 25,
+   "tags": "vegetarian,high-fiber,meal-prep",
+   "ing": "1 cup dry quinoa\n2 cans black beans, drained\n1 cup corn\n1 bell pepper, diced\n1/2 cup salsa\n1 avocado\nLime and cilantro",
+   "steps": "Cook quinoa 15 min\nWarm beans and corn\nDivide quinoa, beans, corn, pepper into 4 bowls\nTop with salsa, avocado, lime",
+   "serv": 4,
+   "kcal": 430,
+   "p": 18,
+   "c": 70,
+   "f": 9
+  },
+  {
+   "name": "Sheet-Pan Pork Tenderloin & Potatoes",
+   "kind": "Dinner",
+   "prep": "Sheet Pan",
+   "min": 35,
+   "tags": "high-protein,family",
+   "ing": "1.25 lb pork tenderloin\n1 lb baby red potatoes, halved\n4 carrots, chopped\n2 tbsp olive oil\n1 tbsp honey\n1 tbsp Dijon mustard",
+   "steps": "Heat oven to 425\u00b0F / 220\u00b0C\nRoast potatoes and carrots with oil 10 min\nBrush pork with honey-mustard, add to pan\nRoast 20-25 min to 145\u00b0F, rest 5 min, slice",
+   "serv": 4,
+   "kcal": 360,
+   "p": 33,
+   "c": 30,
+   "f": 12
+  },
+  {
+   "name": "Grilled Steak & Veggie Kebabs",
+   "kind": "Dinner",
+   "prep": "Grill",
+   "min": 25,
+   "tags": "high-protein,low-carb",
+   "ing": "1.25 lb sirloin, cubed\n2 bell peppers\n1 zucchini\n1 red onion\n1 tbsp olive oil\n2 tbsp balsamic vinegar",
+   "steps": "Marinate steak in oil and balsamic 10+ min\nThread steak and veg on skewers\nGrill 8-10 min, turning\nRest 5 min",
+   "serv": 4,
+   "kcal": 300,
+   "p": 31,
+   "c": 8,
+   "f": 15
+  },
+  {
+   "name": "Slow-Cooker Chickpea Chicken Curry",
+   "kind": "Dinner",
+   "prep": "Slow Cooker",
+   "min": 15,
+   "tags": "high-protein,gluten-free",
+   "ing": "1.5 lb chicken thighs\n1 can chickpeas, drained\n1 can (13.5 oz) light coconut milk\n1 can (15 oz) crushed tomatoes\n1 onion, diced\n2 tbsp curry powder\n2 cups spinach",
+   "steps": "Add all but spinach to slow cooker\nCook low 6 h or high 3 h\nShred chicken, stir in spinach\nServe over rice or cauliflower rice (not counted)",
+   "serv": 4,
+   "kcal": 390,
+   "p": 40,
+   "c": 24,
+   "f": 16
+  },
+  {
+   "name": "Veggie Feta Frittata",
+   "kind": "Dinner",
+   "prep": "Sheet Pan",
+   "min": 30,
+   "tags": "vegetarian,low-carb",
+   "ing": "10 eggs\n1/2 cup milk\n2 cups spinach\n1 bell pepper, diced\n1/2 onion, diced\n1/3 cup feta",
+   "steps": "Heat oven to 375\u00b0F / 190\u00b0C\nWhisk eggs and milk, season\nSpread veg in a greased baking dish, pour over eggs\nTop with feta, bake 20-25 min",
+   "serv": 4,
+   "kcal": 250,
+   "p": 19,
+   "c": 5,
+   "f": 15
+  },
+  {
+   "name": "Strawberry Banana Oat Smoothie",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "breakfast,fiber",
+   "ing": "1 cup frozen strawberries\n1/2 banana\n1/4 cup rolled oats\n1/2 cup plain Greek yogurt\n1 cup unsweetened almond milk",
+   "steps": "Blend 60 s until smooth",
+   "serv": 1,
+   "kcal": 280,
+   "p": 15,
+   "c": 44,
+   "f": 5
+  },
+  {
+   "name": "Iced Coffee Protein Shake",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "high-protein,pre-workout",
+   "ing": "1 cup cold brew coffee\n1 scoop chocolate protein\n1/2 frozen banana\n1 tbsp almond butter\n1/2 cup almond milk\nIce",
+   "steps": "Blend until frothy",
+   "serv": 1,
+   "kcal": 295,
+   "p": 28,
+   "c": 21,
+   "f": 12
+  },
+  {
+   "name": "PB&J Smoothie",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "high-protein,kid-friendly",
+   "ing": "1 cup frozen mixed berries\n1 tbsp peanut butter\n1/2 cup low-fat cottage cheese\n1 cup 2% milk",
+   "steps": "Blend until smooth",
+   "serv": 1,
+   "kcal": 375,
+   "p": 24,
+   "c": 37,
+   "f": 15
+  },
+  {
+   "name": "Green Apple Ginger Refresher",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "low-cal,hydrating",
+   "ing": "1 cup chopped kale\n1 green apple, cored\n1/2 cucumber\n1 tsp fresh ginger\nJuice of 1/2 lemon\n1 cup coconut water",
+   "steps": "Blend 60 s, add ice",
+   "serv": 1,
+   "kcal": 175,
+   "p": 2,
+   "c": 40,
+   "f": 1
+  },
+  {
+   "name": "Chocolate Cherry Recovery Shake",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "high-protein,post-workout",
+   "ing": "1 cup frozen dark cherries\n1 scoop chocolate protein\n1 tbsp cocoa powder\n1 tbsp chia seeds\n1 cup 2% milk",
+   "steps": "Blend until smooth",
+   "serv": 1,
+   "kcal": 405,
+   "p": 35,
+   "c": 46,
+   "f": 10
+  },
+  {
+   "name": "Mass-Gainer Shake",
+   "kind": "Smoothie",
+   "prep": "Blender",
+   "min": 5,
+   "tags": "bulking,high-protein",
+   "ing": "1 banana\n1/2 cup rolled oats\n2 tbsp peanut butter\n1 scoop vanilla protein\n1.5 cups whole milk",
+   "steps": "Blend 60-90 s",
+   "serv": 1,
+   "kcal": 790,
+   "p": 49,
+   "c": 82,
+   "f": 32
+  }
+ ],
+ "R": [
+  {
+   "title": "Morning meds",
+   "type": "Meds",
+   "h": 8,
+   "m": 0,
+   "days": 127,
+   "note": "Take with water and breakfast"
+  },
+  {
+   "title": "Post-workout smoothie",
+   "type": "Smoothie",
+   "h": 18,
+   "m": 30,
+   "days": 127,
+   "note": ""
+  },
+  {
+   "title": "Drink water",
+   "type": "Water",
+   "h": 14,
+   "m": 0,
+   "days": 127,
+   "note": ""
+  }
+ ],
+ "G": [
+  {
+   "name": "Goblet Squat",
+   "mus": "Quads, glutes, core",
+   "steps": [
+    "Hold a dumbbell or kettlebell vertically at your chest, elbows tucked.",
+    "Feet shoulder-width, toes turned out slightly.",
+    "Sit your hips down and back between your heels, chest tall.",
+    "Go as deep as you can with a flat back, then drive up through your whole foot."
+   ],
+   "cue": "Push your knees out in line with your toes.",
+   "avoid": "Heels lifting or knees caving inward.",
+   "keys": [
+    "goblet"
+   ],
+   "demo": "goblet"
+  },
+  {
+   "name": "Squat",
+   "mus": "Quads, glutes, hamstrings, core",
+   "steps": [
+    "Stand with feet shoulder-width, toes slightly out.",
+    "Brace your core like you're about to be poked in the stomach.",
+    "Bend hips and knees together, sitting down between your heels.",
+    "Reach at least parallel, then stand up by pushing the floor away."
+   ],
+   "cue": "Keep your chest proud and weight mid-foot.",
+   "avoid": "Rounding your lower back at the bottom.",
+   "keys": [
+    "squat",
+    "air squat"
+   ],
+   "demo": "squat"
+  },
+  {
+   "name": "Jump Squat",
+   "mus": "Quads, glutes, calves (power)",
+   "steps": [
+    "Drop into a quarter-to-half squat, arms back.",
+    "Explode up, swinging arms forward, and leave the floor.",
+    "Land softly on the balls of your feet, then heels.",
+    "Sink straight into the next rep."
+   ],
+   "cue": "Land quiet \u2013 like a cat.",
+   "avoid": "Stiff-legged landings that jar the knees.",
+   "keys": [
+    "jump squat"
+   ],
+   "demo": "jumpsquat"
+  },
+  {
+   "name": "Deep Squat Hold",
+   "mus": "Hips, ankles, lower back (mobility)",
+   "steps": [
+    "Feet a little wider than shoulders, toes out.",
+    "Sink as low as you can, elbows pressing knees outward.",
+    "Keep heels down \u2013 hold onto a post if you need balance.",
+    "Breathe slowly and relax into the position."
+   ],
+   "cue": "Long exhales let the hips open further.",
+   "avoid": "Forcing depth with heels lifting.",
+   "keys": [
+    "squat hold"
+   ],
+   "demo": "squathold"
+  },
+  {
+   "name": "Wall Sit",
+   "mus": "Quads, glutes",
+   "steps": [
+    "Back flat against a wall, slide down until thighs are parallel to the floor.",
+    "Knees stacked over ankles, feet hip-width.",
+    "Arms crossed or by your sides \u2013 don't push on your legs.",
+    "Hold, breathing steadily."
+   ],
+   "cue": "Press your low back into the wall.",
+   "avoid": "Knees drifting past toes.",
+   "keys": [
+    "wall sit"
+   ],
+   "demo": "wallsit"
+  },
+  {
+   "name": "Romanian Deadlift",
+   "mus": "Hamstrings, glutes, lower back",
+   "steps": [
+    "Stand tall holding weights in front of your thighs, soft knees.",
+    "Push your hips back like closing a car door with your butt.",
+    "Slide the weights down your legs until you feel a strong hamstring stretch.",
+    "Squeeze glutes to drive hips forward and stand tall."
+   ],
+   "cue": "Weights stay close \u2013 shave your legs with them.",
+   "avoid": "Rounding your back or turning it into a squat.",
+   "keys": [
+    "romanian",
+    "rdl",
+    "deadlift"
+   ],
+   "demo": "rdl"
+  },
+  {
+   "name": "Hip Thrust",
+   "mus": "Glutes, hamstrings",
+   "steps": [
+    "Sit with upper back against a bench, weight across your hips.",
+    "Feet flat, about hip-width, knees bent ~90\u00b0 at the top.",
+    "Tuck chin, drive through heels and lift hips until body is a straight line.",
+    "Squeeze glutes hard for one second, lower with control."
+   ],
+   "cue": "Ribs down, slight posterior pelvic tilt at the top.",
+   "avoid": "Arching the lower back instead of using glutes.",
+   "keys": [
+    "hip thrust"
+   ],
+   "demo": "bridge"
+  },
+  {
+   "name": "Glute Bridge",
+   "mus": "Glutes, hamstrings, core",
+   "steps": [
+    "Lie on your back, knees bent, feet flat (or on a wall for wall bridges).",
+    "Press your low back gently into the floor.",
+    "Drive through heels and lift hips until knees, hips and shoulders line up.",
+    "Pause and squeeze, then lower one vertebra at a time."
+   ],
+   "cue": "Think 'squeeze a coin between your glutes'.",
+   "avoid": "Pushing up through your toes.",
+   "keys": [
+    "bridge"
+   ],
+   "demo": "bridge"
+  },
+  {
+   "name": "Walking Lunge",
+   "mus": "Quads, glutes, balance",
+   "steps": [
+    "Stand tall and take a long step forward.",
+    "Lower until both knees are about 90\u00b0, back knee just above the floor.",
+    "Push through the front heel and bring the back foot forward into the next step.",
+    "Alternate legs, keeping your torso upright."
+   ],
+   "cue": "Front knee tracks over the middle toes.",
+   "avoid": "Short steps that overload the front knee.",
+   "keys": [
+    "lunge"
+   ],
+   "demo": "lunge"
+  },
+  {
+   "name": "Calf Raise",
+   "mus": "Calves",
+   "steps": [
+    "Stand on the edge of a step, heels hanging off.",
+    "Rise as high as possible onto the balls of your feet.",
+    "Pause at the top, then lower slowly below step level.",
+    "Hold a wall for balance if needed."
+   ],
+   "cue": "Slow 3-second lowering builds the most strength.",
+   "avoid": "Bouncing through reps.",
+   "keys": [
+    "calf"
+   ],
+   "demo": "calf"
+  },
+  {
+   "name": "Bench Press",
+   "mus": "Chest, shoulders, triceps",
+   "steps": [
+    "Lie on the bench, eyes under the bar, feet planted.",
+    "Squeeze shoulder blades together and down.",
+    "Lower the bar to mid-chest with elbows ~45\u00b0 from your body.",
+    "Press up and slightly back over your shoulders."
+   ],
+   "cue": "Keep your shoulder blades pinned the whole set.",
+   "avoid": "Flaring elbows to 90\u00b0 or bouncing off the chest.",
+   "keys": [
+    "bench"
+   ],
+   "demo": "bench"
+  },
+  {
+   "name": "Push-Up",
+   "mus": "Chest, shoulders, triceps, core",
+   "steps": [
+    "Hands slightly wider than shoulders, body in a straight plank.",
+    "Lower your chest toward the floor, elbows ~45\u00b0 from your sides.",
+    "Touch chest just above the floor.",
+    "Push the floor away to return. Drop to knees or use a wall to scale."
+   ],
+   "cue": "Squeeze glutes so your hips don't sag.",
+   "avoid": "Hips sagging or head poking forward.",
+   "keys": [
+    "push-up",
+    "push up",
+    "pushup"
+   ],
+   "demo": "pushup"
+  },
+  {
+   "name": "Overhead Press",
+   "mus": "Shoulders, triceps, upper back",
+   "steps": [
+    "Stand with weights at shoulder height, palms forward.",
+    "Brace core and squeeze glutes.",
+    "Press straight up, moving your head back slightly to clear the path.",
+    "Finish with biceps by your ears, then lower with control."
+   ],
+   "cue": "Ribs down \u2013 don't lean back.",
+   "avoid": "Arching the lower back to finish the rep.",
+   "keys": [
+    "overhead press",
+    "shoulder press"
+   ],
+   "demo": "ohp"
+  },
+  {
+   "name": "Row",
+   "mus": "Upper back, lats, biceps",
+   "steps": [
+    "Hinge forward with a flat back (or brace one hand on a bench for dumbbell rows).",
+    "Let the weight hang straight down.",
+    "Pull the elbow back toward your hip, squeezing your shoulder blade.",
+    "Lower slowly to a full stretch."
+   ],
+   "cue": "Lead with the elbow, not the hand.",
+   "avoid": "Jerking the weight with your torso.",
+   "keys": [
+    "row"
+   ],
+   "demo": "row"
+  },
+  {
+   "name": "Band Pull-Apart",
+   "mus": "Rear delts, upper back (posture)",
+   "steps": [
+    "Hold a band at shoulder height, arms straight, hands shoulder-width.",
+    "Pull the band apart until it touches your chest.",
+    "Squeeze shoulder blades together for a beat.",
+    "Return slowly."
+   ],
+   "cue": "Keep shoulders down away from ears.",
+   "avoid": "Shrugging up.",
+   "keys": [
+    "pull-apart",
+    "pull apart"
+   ],
+   "demo": "pullapart"
+  },
+  {
+   "name": "Bicep Curl",
+   "mus": "Biceps, forearms",
+   "steps": [
+    "Stand tall, weights at your sides, palms forward.",
+    "Pin elbows to your ribs.",
+    "Curl weights up toward your shoulders.",
+    "Lower slowly over 2-3 seconds."
+   ],
+   "cue": "Only your forearms should move.",
+   "avoid": "Swinging your body for momentum.",
+   "keys": [
+    "curl"
+   ],
+   "demo": "curl"
+  },
+  {
+   "name": "Tricep Dip",
+   "mus": "Triceps, chest, shoulders",
+   "steps": [
+    "Hands on a bench or chair edge behind you, fingers forward.",
+    "Legs bent (easier) or straight (harder).",
+    "Bend elbows straight back to ~90\u00b0.",
+    "Press back up to straight arms."
+   ],
+   "cue": "Keep your back close to the bench.",
+   "avoid": "Dropping too deep and straining the shoulders.",
+   "keys": [
+    "dip"
+   ],
+   "demo": "dip"
+  },
+  {
+   "name": "Plank",
+   "mus": "Core, shoulders, glutes",
+   "steps": [
+    "Forearms on the floor, elbows under shoulders.",
+    "Step feet back so your body forms a straight line.",
+    "Squeeze glutes and pull belly button toward spine.",
+    "Breathe steadily and hold."
+   ],
+   "cue": "Imagine pulling your elbows toward your toes.",
+   "avoid": "Hips too high or sagging.",
+   "keys": [
+    "plank"
+   ],
+   "demo": "plank"
+  },
+  {
+   "name": "Side Plank",
+   "mus": "Obliques, hips, shoulders",
+   "steps": [
+    "Lie on your side, elbow under shoulder.",
+    "Stack feet (or stagger for balance).",
+    "Lift hips so your body is a straight line from head to feet.",
+    "Hold, then switch sides."
+   ],
+   "cue": "Push the floor away with your forearm.",
+   "avoid": "Letting the hips drop.",
+   "keys": [
+    "side plank"
+   ],
+   "demo": "sideplank"
+  },
+  {
+   "name": "Dead Bug",
+   "mus": "Deep core",
+   "steps": [
+    "Lie on your back, arms up, knees bent 90\u00b0 over hips.",
+    "Press your low back flat into the floor.",
+    "Slowly extend opposite arm and leg toward the floor.",
+    "Return and switch sides."
+   ],
+   "cue": "Exhale fully as you extend.",
+   "avoid": "Low back arching off the floor.",
+   "keys": [
+    "dead bug"
+   ],
+   "demo": "deadbug"
+  },
+  {
+   "name": "Bicycle Crunch",
+   "mus": "Abs, obliques",
+   "steps": [
+    "Lie on your back, hands lightly behind head, legs lifted.",
+    "Bring one knee in while rotating the opposite elbow toward it.",
+    "Extend the other leg long.",
+    "Alternate in a slow, controlled pedaling motion."
+   ],
+   "cue": "Rotate from your ribs, not your neck.",
+   "avoid": "Yanking on your head.",
+   "keys": [
+    "bicycle"
+   ],
+   "demo": "bicycle"
+  },
+  {
+   "name": "Russian Twist",
+   "mus": "Obliques, core",
+   "steps": [
+    "Sit with knees bent, lean back ~45\u00b0, chest tall.",
+    "Hold a weight or clasp hands.",
+    "Rotate your torso to tap beside one hip, then the other.",
+    "Lift feet for more challenge."
+   ],
+   "cue": "Move your shoulders, not just your arms.",
+   "avoid": "Rounding the back.",
+   "keys": [
+    "russian twist"
+   ],
+   "demo": "twist"
+  },
+  {
+   "name": "Leg Raise",
+   "mus": "Lower abs, hip flexors",
+   "steps": [
+    "Lie flat, hands under your hips for support.",
+    "Keep legs straight and together.",
+    "Raise legs to vertical.",
+    "Lower slowly, stopping before your back arches."
+   ],
+   "cue": "Low back stays glued to the floor.",
+   "avoid": "Dropping legs fast.",
+   "keys": [
+    "leg raise"
+   ],
+   "demo": "legraise"
+  },
+  {
+   "name": "Burpee",
+   "mus": "Full body, conditioning",
+   "steps": [
+    "From standing, squat and place hands on the floor.",
+    "Jump or step feet back into a plank.",
+    "Chest to floor (optional), then jump feet back to hands.",
+    "Explode up with a small jump and clap overhead."
+   ],
+   "cue": "Find a rhythm you can keep \u2013 smooth beats fast.",
+   "avoid": "Sagging hips in the plank.",
+   "keys": [
+    "burpee"
+   ],
+   "demo": "burpee"
+  },
+  {
+   "name": "Mountain Climber",
+   "mus": "Core, shoulders, cardio",
+   "steps": [
+    "Start in a high plank, hands under shoulders.",
+    "Drive one knee toward your chest.",
+    "Quickly switch legs like running in place.",
+    "Keep hips level with shoulders."
+   ],
+   "cue": "Shoulders stay over wrists.",
+   "avoid": "Bouncing hips up high.",
+   "keys": [
+    "mountain climber"
+   ],
+   "demo": "climber"
+  },
+  {
+   "name": "High Knees",
+   "mus": "Cardio, hip flexors, calves",
+   "steps": [
+    "Stand tall, run in place.",
+    "Drive knees up to hip height.",
+    "Pump arms in rhythm.",
+    "Stay light on the balls of your feet."
+   ],
+   "cue": "Quick feet, tall posture.",
+   "avoid": "Leaning back.",
+   "keys": [
+    "high knees"
+   ],
+   "demo": "highknees"
+  },
+  {
+   "name": "Kettlebell Swing",
+   "mus": "Glutes, hamstrings, core, cardio",
+   "steps": [
+    "Feet wider than hips, kettlebell a foot in front of you.",
+    "Hinge and hike the bell back between your legs.",
+    "Snap your hips forward to float the bell to chest height.",
+    "Let it fall back, hinge again and repeat."
+   ],
+   "cue": "It's a hip snap, not an arm lift.",
+   "avoid": "Squatting the swing or lifting with your arms.",
+   "keys": [
+    "kettlebell swing",
+    "swing"
+   ],
+   "demo": "kbswing"
+  },
+  {
+   "name": "Wall Ball",
+   "mus": "Legs, shoulders, conditioning",
+   "steps": [
+    "Hold a medicine ball at chest, stand an arm's length from a wall.",
+    "Squat to parallel.",
+    "Drive up and throw the ball to a target ~10 ft high.",
+    "Catch it and flow into the next squat."
+   ],
+   "cue": "Use your legs to throw, arms just guide.",
+   "avoid": "Catching it standing tall and then squatting.",
+   "keys": [
+    "wall ball"
+   ],
+   "demo": "wallball"
+  },
+  {
+   "name": "Farmer Carry",
+   "mus": "Grip, traps, core",
+   "steps": [
+    "Pick up heavy weights in each hand with a flat back.",
+    "Stand tall, shoulders back and down.",
+    "Walk with short, controlled steps.",
+    "Set the weights down with a hip hinge."
+   ],
+   "cue": "Walk like you're balancing a book on your head.",
+   "avoid": "Leaning to one side.",
+   "keys": [
+    "farmer"
+   ],
+   "demo": "carry"
+  },
+  {
+   "name": "Sled Push",
+   "mus": "Legs, conditioning",
+   "steps": [
+    "Grip the sled handles with arms extended or bent.",
+    "Lean in at ~45\u00b0.",
+    "Drive with short powerful steps, pushing through the balls of your feet.",
+    "No sled? Push a loaded plate on turf or do a heavy plank-walk."
+   ],
+   "cue": "Keep hips low and back flat.",
+   "avoid": "Standing too upright.",
+   "keys": [
+    "sled"
+   ],
+   "demo": "sled"
+  },
+  {
+   "name": "Burpee Broad Jump",
+   "mus": "Full body power",
+   "steps": [
+    "Do a burpee: chest to floor.",
+    "Jump feet in.",
+    "Swing arms and jump forward as far as you can.",
+    "Land softly and repeat."
+   ],
+   "cue": "Land in a quarter squat to absorb force.",
+   "avoid": "Locking knees on landing.",
+   "keys": [
+    "broad jump"
+   ],
+   "demo": "burpee"
+  },
+  {
+   "name": "Cat-Cow",
+   "mus": "Spine mobility",
+   "steps": [
+    "Start on hands and knees.",
+    "Inhale: drop belly, lift chest and tailbone (cow).",
+    "Exhale: round your back, tuck chin and tailbone (cat).",
+    "Move slowly with your breath."
+   ],
+   "cue": "Move one vertebra at a time.",
+   "avoid": "Rushing through it.",
+   "keys": [
+    "cat-cow",
+    "cat cow"
+   ],
+   "demo": "catcow"
+  },
+  {
+   "name": "World's Greatest Stretch",
+   "mus": "Hips, hamstrings, T-spine",
+   "steps": [
+    "Step into a deep lunge, both hands inside the front foot.",
+    "Drop the inside elbow toward the ankle.",
+    "Rotate and reach that arm to the ceiling.",
+    "Return, straighten front leg for a hamstring stretch, switch sides."
+   ],
+   "cue": "Follow your top hand with your eyes.",
+   "avoid": "Letting the back knee collapse.",
+   "keys": [
+    "greatest stretch"
+   ],
+   "demo": "wgs"
+  },
+  {
+   "name": "90/90 Hip Switch",
+   "mus": "Hip rotation",
+   "steps": [
+    "Sit with both knees bent 90\u00b0, one in front, one to the side.",
+    "Sit tall, hands behind you if needed.",
+    "Rotate both knees to the other side without using your hands.",
+    "Keep alternating slowly."
+   ],
+   "cue": "Lead with the knees, keep the chest tall.",
+   "avoid": "Collapsing the spine.",
+   "keys": [
+    "90/90"
+   ],
+   "demo": "ninety"
+  },
+  {
+   "name": "Thoracic Rotation",
+   "mus": "Upper back mobility",
+   "steps": [
+    "Lie on your side, knees bent 90\u00b0 and stacked, arms straight in front.",
+    "Open the top arm across your body like a book.",
+    "Follow your hand with your eyes until it rests on the other side.",
+    "Return slowly."
+   ],
+   "cue": "Keep knees together and down.",
+   "avoid": "Rotating from the lower back.",
+   "keys": [
+    "thoracic"
+   ],
+   "demo": "tspine"
+  },
+  {
+   "name": "Leg Circles",
+   "mus": "Hips, core control",
+   "steps": [
+    "Lie on your back, one leg extended to the ceiling.",
+    "Draw small controlled circles with the lifted leg.",
+    "Keep the pelvis still.",
+    "Reverse direction, then switch legs."
+   ],
+   "cue": "Small and controlled beats big and wobbly.",
+   "avoid": "Hips rocking side to side.",
+   "keys": [
+    "leg circle"
+   ],
+   "demo": "legcircle"
+  },
+  {
+   "name": "Incline Treadmill Walk",
+   "mus": "Glutes, calves, cardio",
+   "steps": [
+    "Set incline (e.g. 12%) and speed (e.g. 3.0 mph).",
+    "Walk tall without holding the rails.",
+    "Short, quick steps; push through your whole foot.",
+    "Lower the incline if you need the handrails."
+   ],
+   "cue": "Hands-free makes it work.",
+   "avoid": "Hanging on the rails.",
+   "keys": [
+    "treadmill",
+    "incline"
+   ],
+   "demo": "treadmill"
+  },
+  {
+   "name": "Easy Run / Jog",
+   "mus": "Heart, legs",
+   "steps": [
+    "Start with a 5-minute brisk walk.",
+    "Jog at a pace where you can still talk in short sentences.",
+    "Land under your hips with quick light steps.",
+    "Relax shoulders and hands."
+   ],
+   "cue": "Slower than you think \u2013 conversational pace.",
+   "avoid": "Overstriding and heel-slamming.",
+   "keys": [
+    "jog",
+    "run",
+    "s jog",
+    "min jog",
+    "jog /"
+   ],
+   "demo": "jog"
+  },
+  {
+   "name": "Zone 2 Cardio",
+   "mus": "Heart health, endurance",
+   "steps": [
+    "Choose a bike, rower, incline walk or easy jog.",
+    "Keep heart rate around 60-70% of max (roughly 180 minus your age).",
+    "You should be able to talk but not sing.",
+    "Hold the effort steady for the full session."
+   ],
+   "cue": "Use your watch's heart-rate readout to stay in zone.",
+   "avoid": "Drifting into hard effort.",
+   "keys": [
+    "zone 2",
+    "bike",
+    "walk"
+   ],
+   "demo": "walk"
+  },
+  {
+   "name": "Stair Climber",
+   "mus": "Glutes, quads, calves, cardio",
+   "steps": [
+    "Step on, set a steady level.",
+    "Stand tall, light fingertips on rails only for balance.",
+    "Push through your whole foot on each step.",
+    "Raise the speed for fast intervals, then ease back."
+   ],
+   "cue": "Drive through the heel to work your glutes.",
+   "avoid": "Leaning on the rails with straight arms.",
+   "keys": [
+    "stair"
+   ],
+   "demo": "stair"
+  },
+  {
+   "name": "Interval Walking",
+   "mus": "Heart, legs",
+   "steps": [
+    "Walk fast enough that talking is hard (about 70% effort) for 3 minutes.",
+    "Slow to an easy stroll for 3 minutes.",
+    "Swing your arms and keep your posture tall.",
+    "Repeat 5 rounds."
+   ],
+   "cue": "Fast walks should feel like a 'somewhat hard' effort.",
+   "avoid": "Making every interval the same easy pace.",
+   "keys": [
+    "fast walk",
+    "slow walk"
+   ],
+   "demo": "fastwalk"
+  },
+  {
+   "name": "Shadowboxing",
+   "mus": "Shoulders, core, cardio",
+   "steps": [
+    "Stand in a boxing stance: feet staggered, hands guarding your chin.",
+    "Jab: snap the lead hand straight out and back.",
+    "Cross: rotate your back hip and throw the rear hand.",
+    "Hook: bend the elbow 90\u00b0 and swing from your hips."
+   ],
+   "cue": "Exhale sharply on every punch.",
+   "avoid": "Locking your elbows at full extension.",
+   "keys": [
+    "jab",
+    "hook",
+    "shadowbox",
+    "punch"
+   ],
+   "demo": "box"
+  },
+  {
+   "name": "Rowing Machine",
+   "mus": "Legs, back, arms, cardio",
+   "steps": [
+    "Strap in, grab the handle, shins vertical.",
+    "Drive with your legs first, then lean back slightly.",
+    "Finish by pulling the handle to your lower ribs.",
+    "Return: arms, then body, then bend the knees."
+   ],
+   "cue": "Legs, body, arms. Then arms, body, legs.",
+   "avoid": "Pulling with your arms before your legs push.",
+   "keys": [
+    "rowing machine"
+   ],
+   "demo": "rower"
+  },
+  {
+   "name": "Indoor Cycling",
+   "mus": "Quads, glutes, cardio",
+   "steps": [
+    "Set the seat at hip height so your knee is slightly bent at the bottom.",
+    "Warm up spinning at light resistance.",
+    "Climbs: add resistance and slow your cadence.",
+    "Sprints: lighter resistance, fast legs, stay seated."
+   ],
+   "cue": "Keep your upper body relaxed and still.",
+   "avoid": "Bouncing in the saddle at high speed.",
+   "keys": [
+    "spin bike",
+    "seated climb",
+    "sprint"
+   ],
+   "demo": "cycle"
+  },
+  {
+   "name": "Freestyle Swim",
+   "mus": "Full body, cardio",
+   "steps": [
+    "Push off on your front, body long and flat.",
+    "Alternate arms: reach, pull under your body, push past the hip.",
+    "Turn your head to the side to breathe every 2-3 strokes.",
+    "Keep a steady flutter kick from the hips."
+   ],
+   "cue": "Keep one eye in the water when you breathe.",
+   "avoid": "Lifting your whole head forward to breathe.",
+   "keys": [
+    "swim",
+    "freestyle",
+    "kickboard"
+   ],
+   "demo": "swim"
+  },
+  {
+   "name": "Sun Salutation A",
+   "mus": "Full body flow",
+   "steps": [
+    "Inhale, reach your arms overhead.",
+    "Exhale, fold forward. Inhale, half lift.",
+    "Step back to plank, lower down, then upward dog.",
+    "Exhale to downward dog for 5 breaths, step forward, rise up."
+   ],
+   "cue": "One breath per movement.",
+   "avoid": "Rushing and holding your breath.",
+   "keys": [
+    "sun salutation"
+   ],
+   "demo": "sunsal"
+  },
+  {
+   "name": "Downward Dog",
+   "mus": "Hamstrings, calves, shoulders",
+   "steps": [
+    "From hands and knees, tuck toes and lift hips up and back.",
+    "Hands shoulder-width, fingers spread.",
+    "Press the floor away and lengthen your spine.",
+    "Bend the knees as much as you need."
+   ],
+   "cue": "A long back matters more than straight legs.",
+   "avoid": "Rounding the back to force the heels down.",
+   "keys": [
+    "downward dog"
+   ],
+   "demo": "downdog"
+  },
+  {
+   "name": "Warrior II",
+   "mus": "Legs, hips, shoulders",
+   "steps": [
+    "Step feet wide, front toes forward, back foot turned in.",
+    "Bend the front knee over the ankle.",
+    "Reach arms out at shoulder height.",
+    "Look over your front hand."
+   ],
+   "cue": "Sink the hips while lifting through the chest.",
+   "avoid": "Front knee collapsing inward.",
+   "keys": [
+    "warrior"
+   ],
+   "demo": "warrior"
+  },
+  {
+   "name": "Triangle Pose",
+   "mus": "Hamstrings, side body",
+   "steps": [
+    "Feet wide, front toes forward, both legs straight.",
+    "Reach forward over the front leg, then hinge sideways.",
+    "Rest your hand on your shin or a block.",
+    "Reach the top arm to the sky."
+   ],
+   "cue": "Imagine your body between two panes of glass.",
+   "avoid": "Collapsing the chest toward the floor.",
+   "keys": [
+    "triangle"
+   ],
+   "demo": "triangle"
+  },
+  {
+   "name": "Child's Pose",
+   "mus": "Back, hips (rest)",
+   "steps": [
+    "Kneel, big toes together, knees apart.",
+    "Sit hips back to your heels.",
+    "Walk hands forward and rest your forehead down.",
+    "Breathe slowly into your back."
+   ],
+   "cue": "Let each exhale soften you further.",
+   "avoid": "Forcing hips down if knees complain. Add a pillow.",
+   "keys": [
+    "child"
+   ],
+   "demo": "child"
+  },
+  {
+   "name": "Pilates Hundred",
+   "mus": "Deep core",
+   "steps": [
+    "Lie down, legs in tabletop or extended at 45\u00b0.",
+    "Curl head and shoulders up, arms long by your sides.",
+    "Pump arms up and down in small pulses.",
+    "Inhale for 5 pulses, exhale for 5. Ten rounds."
+   ],
+   "cue": "Keep the low back gently pressed down.",
+   "avoid": "Straining your neck. Rest your head if needed.",
+   "keys": [
+    "hundred"
+   ],
+   "demo": "hundred"
+  },
+  {
+   "name": "Roll-Up",
+   "mus": "Abs, spine mobility",
+   "steps": [
+    "Lie flat, arms overhead, legs long.",
+    "Raise arms, curl chin to chest and peel up one vertebra at a time.",
+    "Reach for your toes with a rounded spine.",
+    "Roll back down slowly."
+   ],
+   "cue": "Move slowly. Control beats momentum.",
+   "avoid": "Jerking up with the arms.",
+   "keys": [
+    "roll-up"
+   ],
+   "demo": "rollup"
+  },
+  {
+   "name": "Single-Leg Stretch",
+   "mus": "Abs, hip flexors",
+   "steps": [
+    "Curl head and shoulders up, hug one knee in.",
+    "Extend the other leg long at 45\u00b0.",
+    "Switch legs, swapping hands to the bent knee.",
+    "Keep your torso still."
+   ],
+   "cue": "Exhale each time you switch.",
+   "avoid": "Rocking the torso side to side.",
+   "keys": [
+    "single-leg stretch"
+   ],
+   "demo": "slstretch"
+  },
+  {
+   "name": "Pilates Swimming",
+   "mus": "Back, glutes, shoulders",
+   "steps": [
+    "Lie face down, arms and legs long.",
+    "Lift chest, arms and legs slightly off the mat.",
+    "Flutter opposite arm and leg in small quick beats.",
+    "Keep your neck long, eyes down."
+   ],
+   "cue": "Lengthen out before you lift up.",
+   "avoid": "Cranking your neck up to look forward.",
+   "keys": [
+    "swimming (pilates)"
+   ],
+   "demo": "pswim"
+  },
+  {
+   "name": "Neck & Shoulder Rolls",
+   "mus": "Neck, upper traps",
+   "steps": [
+    "Sit or stand tall.",
+    "Drop your chin and slowly roll the head ear to ear.",
+    "Roll shoulders up, back and down 10 times.",
+    "Reverse direction."
+   ],
+   "cue": "Slow and easy, never forced.",
+   "avoid": "Rolling the head far backward.",
+   "keys": [
+    "neck roll",
+    "shoulder roll"
+   ],
+   "demo": "neck"
+  },
+  {
+   "name": "Hip Flexor Stretch",
+   "mus": "Hip flexors, quads",
+   "steps": [
+    "Kneel on one knee, other foot forward.",
+    "Tuck your pelvis under and squeeze the back glute.",
+    "Shift forward gently until you feel the front of the hip stretch.",
+    "Reach the same-side arm overhead for more."
+   ],
+   "cue": "The tuck matters more than how far you lean.",
+   "avoid": "Arching the lower back.",
+   "keys": [
+    "hip flexor"
+   ],
+   "demo": "hipflexor"
+  },
+  {
+   "name": "Lat Pulldown / Pull-Up",
+   "mus": "Lats, biceps, upper back",
+   "steps": [
+    "Grip the bar slightly wider than shoulders.",
+    "Pull shoulder blades down first.",
+    "Pull elbows toward your ribs until the chin passes the bar (or bar reaches your chest).",
+    "Lower with control to full stretch."
+   ],
+   "cue": "Think 'elbows to back pockets'.",
+   "avoid": "Swinging or using momentum.",
+   "keys": [
+    "pulldown",
+    "pull-up"
+   ],
+   "demo": "pulldown"
+  },
+  {
+   "name": "Face Pull",
+   "mus": "Rear delts, rotator cuff",
+   "steps": [
+    "Set a rope at face height on a cable or band.",
+    "Pull the rope toward your eyes, elbows high.",
+    "Pull the ends apart beside your ears.",
+    "Return slowly."
+   ],
+   "cue": "Finish in a 'double biceps' pose.",
+   "avoid": "Letting elbows drop below shoulders.",
+   "keys": [
+    "face pull"
+   ],
+   "demo": "facepull"
+  },
+  {
+   "name": "Lateral Raise",
+   "mus": "Side delts",
+   "steps": [
+    "Stand tall, light dumbbells at your sides.",
+    "Raise arms out to the sides with soft elbows.",
+    "Stop at shoulder height.",
+    "Lower over 2-3 seconds."
+   ],
+   "cue": "Lead with the elbows, pinkies slightly up.",
+   "avoid": "Shrugging or swinging heavy weights.",
+   "keys": [
+    "lateral raise"
+   ],
+   "demo": "latraise"
+  },
+  {
+   "name": "Incline Dumbbell Press",
+   "mus": "Upper chest, shoulders, triceps",
+   "steps": [
+    "Set bench to 30\u00b0, dumbbells at shoulder level.",
+    "Shoulder blades back and down.",
+    "Press up and slightly in.",
+    "Lower to a stretch at chest level."
+   ],
+   "cue": "Wrists stacked over elbows.",
+   "avoid": "Too steep an incline turning it into a shoulder press.",
+   "keys": [
+    "incline dumbbell",
+    "dumbbell press"
+   ],
+   "demo": "incline"
+  },
+  {
+   "name": "Legs Up the Wall",
+   "mus": "Calms the nervous system, eases tired legs",
+   "steps": [
+    "Sit sideways next to a wall.",
+    "Swing your legs up the wall as you lie back.",
+    "Rest your arms out to the sides, palms up.",
+    "Breathe slowly for 3-5 minutes."
+   ],
+   "cue": "Scoot your hips as close to the wall as comfortable.",
+   "avoid": "Forcing straight legs if hamstrings are tight. Bend the knees.",
+   "keys": [
+    "legs up the wall",
+    "legs-up"
+   ],
+   "demo": "legsupwall"
+  },
+  {
+   "name": "Supine Spinal Twist",
+   "mus": "Lower back, glutes",
+   "steps": [
+    "Lie on your back and hug one knee in.",
+    "Guide that knee across your body toward the floor.",
+    "Stretch the opposite arm out and look that way.",
+    "Hold 60 seconds, then switch."
+   ],
+   "cue": "Let gravity do the work. Relax with every exhale.",
+   "avoid": "Pushing the knee down hard.",
+   "keys": [
+    "supine twist",
+    "spinal twist"
+   ],
+   "demo": "supinetwist"
+  },
+  {
+   "name": "Seated Forward Fold",
+   "mus": "Hamstrings, back (calming)",
+   "steps": [
+    "Sit with legs straight in front of you.",
+    "Inhale tall, then exhale and fold forward from the hips.",
+    "Rest your hands wherever they reach.",
+    "Breathe slowly and soften."
+   ],
+   "cue": "Bend your knees so your back can relax.",
+   "avoid": "Yanking yourself deeper.",
+   "keys": [
+    "forward fold"
+   ],
+   "demo": "fold"
+  },
+  {
+   "name": "Butterfly Stretch",
+   "mus": "Inner thighs, hips",
+   "steps": [
+    "Sit and bring the soles of your feet together.",
+    "Hold your feet and sit tall.",
+    "Let your knees fall open.",
+    "Lean forward slightly for more stretch."
+   ],
+   "cue": "Gently flutter the knees to release tension.",
+   "avoid": "Pressing your knees down with your hands.",
+   "keys": [
+    "butterfly"
+   ],
+   "demo": "butterfly"
+  },
+  {
+   "name": "4-7-8 Breathing",
+   "mus": "Relaxation, sleep onset",
+   "steps": [
+    "Sit or lie comfortably and exhale fully.",
+    "Breathe in quietly through your nose for 4 counts.",
+    "Hold for 7 counts.",
+    "Exhale through your mouth for 8 counts. Repeat 4 times."
+   ],
+   "cue": "Slow and gentle. The long exhale is what calms you.",
+   "avoid": "Straining. Shorten the counts if you feel light-headed.",
+   "keys": [
+    "4-7-8",
+    "breathing"
+   ],
+   "demo": "breathe"
+  }
+ ]
+}
