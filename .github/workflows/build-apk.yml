@@ -1,0 +1,48 @@
+# Builds an installable GuRu APK in the cloud on every push (or on demand from the Actions tab),
+# then publishes it as a GitHub Release you can open on your phone and tap to install.
+name: Build GuRu APK
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Build debug APK
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --stacktrace
+          mv app/build/outputs/apk/debug/app-debug.apk GuRu.apk
+
+      - name: Keep APK as a build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: GuRu-apk
+          path: GuRu.apk
+
+      - name: Publish release for easy phone download
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: GuRu build ${{ github.run_number }}
+          body: Tap GuRu.apk below on your Android phone to download and install.
+          files: GuRu.apk
